@@ -1,6 +1,6 @@
 using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using MNDR.API.Application.Features.Majstori.Commands;
+using MNDR.API.Models.CQRS.Commands;
 
 namespace MNDR.API.Controllers
 {
